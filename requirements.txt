@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+librosa
+scikit-learn
+xgboost
+torch
+torchaudio
+autogluon
+h2o
+tpot
