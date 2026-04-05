@@ -144,4 +144,4 @@ pip install -r requirements.txt
 
 ## 👩‍💻 Developed By
 
-Shreejaa SM
+Shreejaa S M
